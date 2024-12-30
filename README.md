@@ -461,22 +461,22 @@ Please see [CONTRIBUTING](https://github.com/vsouza/awesome-ios/blob/master/.git
 
 *Job schedulers, Coroutines, Asynchronous and Type safe threads libs and frameworks written in Swift*
 
-- [Venice](https://github.com/Zewo/Venice) - CSP (Coroutines, Channels, Select) for Swift.
-- [Concurrent](https://github.com/typelift/Concurrent) - Functional Concurrency Primitives.
-- [Flow](https://github.com/JohnSundell/Flow) - Operation Oriented Programming in Swift.
-- [Brisk](https://github.com/jmfieldman/Brisk) - A Swift DSL that allows concise and effective concurrency manipulation.
 - [Aojet](https://github.com/aojet/Aojet) - An actor model library for swift.
-- [Overdrive](https://github.com/saidsikira/Overdrive) - Fast async task based Swift framework with focus on type safety, concurrency and multi threading.
 - [AsyncNinja](https://github.com/AsyncNinja/AsyncNinja) - A complete set of concurrency and reactive programming primitives.
-- [Kommander](https://github.com/intelygenz/Kommander-iOS) - Kommander is a Swift library to manage the task execution in different threads. Through the definition a simple but powerful concept, Kommand.
-- [Threadly](https://github.com/nvzqz/Threadly) - Type-safe thread-local storage in Swift.
+- [AsyncQueue](https://github.com/dfed/swift-async-queue) - A library of queues that enable sending ordered tasks from synchronous to asynchronous contexts.
+- [Brisk](https://github.com/jmfieldman/Brisk) - A Swift DSL that allows concise and effective concurrency manipulation.
+- [Concurrent](https://github.com/typelift/Concurrent) - Functional Concurrency Primitives.
 - [Flow-iOS](https://github.com/roytornado/Flow-iOS) - Make your logic flow and data flow clean and human readable.
-- [Queuer](https://github.com/FabrizioBrancati/Queuer) - A queue manager, built on top of OperationQueue and Dispatch (aka GCD).
-- [SwiftQueue](https://github.com/lucas34/SwiftQueue) - Job Scheduler with Concurrent run, failure/retry, persistence, repeat, delay and more.
+- [Flow](https://github.com/JohnSundell/Flow) - Operation Oriented Programming in Swift.
 - [GroupWork](https://github.com/quanvo87/GroupWork) - Easy concurrent, asynchronous tasks in Swift.
+- [Kommander](https://github.com/intelygenz/Kommander-iOS) - Kommander is a Swift library to manage the task execution in different threads. Through the definition a simple but powerful concept, Kommand.
+- [Overdrive](https://github.com/saidsikira/Overdrive) - Fast async task based Swift framework with focus on type safety, concurrency and multi threading.
+- [Queuer](https://github.com/FabrizioBrancati/Queuer) - A queue manager, built on top of OperationQueue and Dispatch (aka GCD).
 - [StickyLocking](https://github.com/stickytools/sticky-locking) - A general purpose embedded hierarchical lock manager used to build highly concurrent applications of all types.
 - [SwiftCoroutine](https://github.com/belozierov/SwiftCoroutine) - Swift coroutines library for iOS and macOS.
-- [AsyncQueue](https://github.com/dfed/swift-async-queue) - A library of queues that enable sending ordered tasks from synchronous to asynchronous contexts.
+- [SwiftQueue](https://github.com/lucas34/SwiftQueue) - Job Scheduler with Concurrent run, failure/retry, persistence, repeat, delay and more.
+- [Threadly](https://github.com/nvzqz/Threadly) - Type-safe thread-local storage in Swift.
+- [Venice](https://github.com/Zewo/Venice) - CSP (Coroutines, Channels, Select) for Swift.
 
 **[back to top](#contributing-and-collaborating)**
 
@@ -680,22 +680,22 @@ Please see [CONTRIBUTING](https://github.com/vsouza/awesome-ios/blob/master/.git
 
 
 ## Dependency Injection
-- [Swinject](https://github.com/Swinject/Swinject) - Dependency injection framework for Swift.
-- [Reliant](https://github.com/appfoundry/Reliant) - Nonintrusive Objective-C dependency injection.
-- [Kraken](https://github.com/sabirvirtuoso/Kraken) - A Dependency Injection Container for Swift with easy-to-use syntax.
-- [Cleanse](https://github.com/square/Cleanse) - Lightweight Swift Dependency Injection Framework by Square.
-- [Typhoon](https://github.com/appsquickly/Typhoon) - Powerful dependency injection for Objective-C.
-- [Pilgrim](https://github.com/appsquickly/pilgrim) - Powerful dependency injection Swift (successor to Typhoon).
-- [Perform](https://github.com/thoughtbot/Perform) - Easy dependency injection for storyboard segues.
 - [Alchemic](https://github.com/drekka/Alchemic) - Advanced, yet simple to use DI framework for Objective-C.
-- [Guise](https://github.com/prosumma/Guise) - An elegant, flexible, type-safe dependency resolution framework for Swift.
-- [Weaver](https://github.com/scribd/Weaver) - A declarative, easy-to-use and safe Dependency Injection framework for Swift.
-- [StoryboardBuilder](https://github.com/hiro-nagami/StoryboardBuilder) - Simple dependency injection for generating views from storyboard.
-- [ViperServices](https://github.com/ladeiko/ViperServices) - Dependency injection container for iOS applications written in Swift. Each service can have boot and shutdown code.
+- [Cleanse](https://github.com/square/Cleanse) - Lightweight Swift Dependency Injection Framework by Square.
 - [DITranquillity](https://github.com/ivlevAstef/DITranquillity) - Dependency injection framework for iOS applications written in clean Swift.
-- [Needle](https://github.com/uber/needle) — Compile-time safe Swift dependency injection framework with real code.
+- [Guise](https://github.com/prosumma/Guise) - An elegant, flexible, type-safe dependency resolution framework for Swift.
+- [Kraken](https://github.com/sabirvirtuoso/Kraken) - A Dependency Injection Container for Swift with easy-to-use syntax.
 - [Locatable](https://github.com/vincent-pradeilles/locatable) - A micro-framework that leverages Property Wrappers to implement the Service Locator pattern.
+- [Needle](https://github.com/uber/needle) — Compile-time safe Swift dependency injection framework with real code.
+- [Perform](https://github.com/thoughtbot/Perform) - Easy dependency injection for storyboard segues.
+- [Pilgrim](https://github.com/appsquickly/pilgrim) - Powerful dependency injection Swift (successor to Typhoon).
+- [Reliant](https://github.com/appfoundry/Reliant) - Nonintrusive Objective-C dependency injection.
 - [SafeDI](https://github.com/dfed/safedi) - Compile-time safe dependency injection in Swift 6.
+- [StoryboardBuilder](https://github.com/hiro-nagami/StoryboardBuilder) - Simple dependency injection for generating views from storyboard.
+- [Swinject](https://github.com/Swinject/Swinject) - Dependency injection framework for Swift.
+- [Typhoon](https://github.com/appsquickly/Typhoon) - Powerful dependency injection for Objective-C.
+- [ViperServices](https://github.com/ladeiko/ViperServices) - Dependency injection container for iOS applications written in Swift. Each service can have boot and shutdown code.
+- [Weaver](https://github.com/scribd/Weaver) - A declarative, easy-to-use and safe Dependency Injection framework for Swift.
 
 **[back to top](#contributing-and-collaborating)**
 
@@ -1087,40 +1087,40 @@ Please see [CONTRIBUTING](https://github.com/vsouza/awesome-ios/blob/master/.git
 
 *Debugging lives here. Logging tools, frameworks, integrations and more.*
 
+- [AELog](https://github.com/tadija/AELog) - Simple, lightweight and flexible debug logging framework written in Swift.
+- [Atlantis](https://github.com/DrewKiino/Atlantis) - A powerful input-agnostic swift logging framework made to speed up development with maximum readability.
+- [Bugfender](https://github.com/bugfender/BugfenderSDK-iOS) - Cloud storage for your app logs. Track user behaviour to find problems in your mobile apps.
+- [CacheAdvance](https://github.com/dfed/CacheAdvance) - A performant cache for logging systems. CacheAdvance persists log events 30x faster than SQLite.
 - [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) - A configurable and extensible Swift-based logging API that is simple, lightweight and performant.
 - [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) - A fast & simple, yet powerful & flexible logging framework for Mac and iOS.
-- [NSLogger](https://github.com/fpillet/NSLogger) - a high performance logging utility which displays traces emitted by client applications running on macOS, iOS and Android.
-- [QorumLogs](https://github.com/goktugyil/QorumLogs) — Swift Logging Utility for Xcode & Google Docs.
-- [Log](https://github.com/delba/Log) - A logging tool with built-in themes, formatters, and a nice API to define your owns.
-- [Rainbow](https://github.com/onevcat/Rainbow) - Delightful console output for Swift developers.
-- [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient logging during development and release.
-- [SwiftyTextTable](https://github.com/scottrhoyt/SwiftyTextTable) - A lightweight tool for generating text tables.
-- [Watchdog](https://github.com/wojteklu/Watchdog) - Class for logging excessive blocking on the main thread.
-- [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog or println, but with additional information, such as the date, function name, filename and line number.
 - [Colors](https://github.com/icodeforlove/Colors) - A pure Swift library for using ANSI codes. Basically makes command-line coloring and styling very easy!
-- [AELog](https://github.com/tadija/AELog) - Simple, lightweight and flexible debug logging framework written in Swift.
-- [ReflectedStringConvertible](https://github.com/mattcomi/ReflectedStringConvertible) - A protocol that allows any class to be printed as if it were a struct.
-- [SwiftTrace](https://github.com/johnno1962/SwiftTrace) - Trace Swift and Objective-C method invocations.
-- [Willow](https://github.com/Nike-Inc/Willow) - Willow is a powerful, yet lightweight logging library written in Swift.
-- [Bugfender](https://github.com/bugfender/BugfenderSDK-iOS) - Cloud storage for your app logs. Track user behaviour to find problems in your mobile apps.
-- [LxDBAnything](https://github.com/DeveloperLx/LxDBAnything) - Automate box any value! Print log without any format control symbol! Change debug habit thoroughly!
-- [XLTestLog](https://github.com/xareelee/XLTestLog) - Styling and coloring your XCTest logs on Xcode Console.
-- [XLFacility](https://github.com/swisspol/XLFacility) - Elegant and extensive logging facility for macOS & iOS (includes database, Telnet and HTTP servers).
-- [Atlantis](https://github.com/DrewKiino/Atlantis) - A powerful input-agnostic swift logging framework made to speed up development with maximum readability.
-- [StoryTeller](https://github.com/drekka/StoryTeller) - Taking a completely different approach to logging, Story Teller replacing fixed logging levels in It then uses dynamic expressions to control the logging so you only see what is important.
-- [LumberMill](https://github.com/ubclaunchpad/LumberMill) - Stupidly simple logging.
-- [TinyConsole](https://github.com/Cosmo/TinyConsole) - A tiny log console to display information while using your iOS app.
-- [Lighty](https://github.com/abdullahselek/Lighty) - Easy to use and lightweight logger for iOS, macOS, tvOS, watchOS and Linux.
-- [JustLog](https://github.com/justeat/JustLog) - Console, file and remote Logstash logging via TCP socket.
-- [Twitter Logging Service](https://github.com/twitter/ios-twitter-logging-service) - Twitter Logging Service is a robust and performant logging framework for iOS clients.
-- [Reqres](https://github.com/AckeeCZ/Reqres) - Network request and response body logger with Alamofire support.
-- [TraceLog](https://github.com/tonystone/tracelog) - Dead Simple: logging the way it's meant to be! Runs on ios, osx, and Linux.
-- [OkLog](https://github.com/diegotl/OkLog-Swift) - A network logger for iOS and macOS projects.
-- [Spy](https://github.com/appunite/Spy) - Lightweight, flexible, multiplatform (iOS, macOS, tvOS, watchOS, Linux) logging utility written in pure Swift that allows you to log on different levels and channels which you can define on your own depending on your needs.
 - [Diagnostics](https://github.com/WeTransfer/Diagnostics) - Allow users to easily share Diagnostics with your support team to improve the flow of fixing bugs.
 - [Gedatsu](https://github.com/bannzai/gedatsu) - Provide readable format about AutoLayout error console log.
+- [JustLog](https://github.com/justeat/JustLog) - Console, file and remote Logstash logging via TCP socket.
+- [Lighty](https://github.com/abdullahselek/Lighty) - Easy to use and lightweight logger for iOS, macOS, tvOS, watchOS and Linux.
+- [Log](https://github.com/delba/Log) - A logging tool with built-in themes, formatters, and a nice API to define your owns.
+- [LumberMill](https://github.com/ubclaunchpad/LumberMill) - Stupidly simple logging.
+- [LxDBAnything](https://github.com/DeveloperLx/LxDBAnything) - Automate box any value! Print log without any format control symbol! Change debug habit thoroughly!
+- [NSLogger](https://github.com/fpillet/NSLogger) - a high performance logging utility which displays traces emitted by client applications running on macOS, iOS and Android.
+- [OkLog](https://github.com/diegotl/OkLog-Swift) - A network logger for iOS and macOS projects.
 - [Pulse](https://github.com/kean/Pulse) - Pulse is a powerful logging system for Apple Platforms. Native. Built with SwiftUI.
-- [CacheAdvance](https://github.com/dfed/CacheAdvance) - A performant cache for logging systems. CacheAdvance persists log events 30x faster than SQLite.
+- [QorumLogs](https://github.com/goktugyil/QorumLogs) — Swift Logging Utility for Xcode & Google Docs.
+- [Rainbow](https://github.com/onevcat/Rainbow) - Delightful console output for Swift developers.
+- [ReflectedStringConvertible](https://github.com/mattcomi/ReflectedStringConvertible) - A protocol that allows any class to be printed as if it were a struct.
+- [Reqres](https://github.com/AckeeCZ/Reqres) - Network request and response body logger with Alamofire support.
+- [Spy](https://github.com/appunite/Spy) - Lightweight, flexible, multiplatform (iOS, macOS, tvOS, watchOS, Linux) logging utility written in pure Swift that allows you to log on different levels and channels which you can define on your own depending on your needs.
+- [StoryTeller](https://github.com/drekka/StoryTeller) - Taking a completely different approach to logging, Story Teller replacing fixed logging levels in It then uses dynamic expressions to control the logging so you only see what is important.
+- [SwiftTrace](https://github.com/johnno1962/SwiftTrace) - Trace Swift and Objective-C method invocations.
+- [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Convenient logging during development and release.
+- [SwiftyTextTable](https://github.com/scottrhoyt/SwiftyTextTable) - A lightweight tool for generating text tables.
+- [TinyConsole](https://github.com/Cosmo/TinyConsole) - A tiny log console to display information while using your iOS app.
+- [TraceLog](https://github.com/tonystone/tracelog) - Dead Simple: logging the way it's meant to be! Runs on ios, osx, and Linux.
+- [Twitter Logging Service](https://github.com/twitter/ios-twitter-logging-service) - Twitter Logging Service is a robust and performant logging framework for iOS clients.
+- [Watchdog](https://github.com/wojteklu/Watchdog) - Class for logging excessive blocking on the main thread.
+- [Willow](https://github.com/Nike-Inc/Willow) - Willow is a powerful, yet lightweight logging library written in Swift.
+- [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog or println, but with additional information, such as the date, function name, filename and line number.
+- [XLFacility](https://github.com/swisspol/XLFacility) - Elegant and extensive logging facility for macOS & iOS (includes database, Telnet and HTTP servers).
+- [XLTestLog](https://github.com/xareelee/XLTestLog) - Styling and coloring your XCTest logs on Xcode Console.
 
 **[back to top](#contributing-and-collaborating)**
 
@@ -2045,19 +2045,19 @@ Most of these are paid services, some have free tiers.
 ## Testing
 
 ### TDD / BDD
-- [Kiwi](https://github.com/kiwi-bdd/Kiwi) - A behavior-driven development library for iOS development.
-- [Specta](https://github.com/specta/specta) - A light-weight TDD / BDD framework for Objective-C & Cocoa.
-- [Quick](https://github.com/Quick/Quick) - A behavior-driven development framework for Swift and Objective-C.
-- [XcodeCoverage](https://github.com/jonreid/XcodeCoverage) - Code coverage for Xcode projects.
-- [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) - Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!
 - [Dixie](https://github.com/Skyscanner/Dixie) - Dixie is an open source Objective-C testing framework for altering object behaviours.
-- [gh-unit](https://github.com/gh-unit/gh-unit) - Test Framework for Objective-C.
+- [Kiwi](https://github.com/kiwi-bdd/Kiwi) - A behavior-driven development library for iOS development.
 - [Nimble](https://github.com/Quick/Nimble) - A Matcher Framework for Swift and Objective-C
-- [Sleipnir](https://github.com/railsware/Sleipnir) - BDD-style framework for Swift.
-- [SwiftCheck](https://github.com/typelift/SwiftCheck) - QuickCheck for Swift.
-- [Spry](https://github.com/Quick/Spry) - A Mac and iOS Playgrounds Unit Testing library based on Nimble.
-- [swift-corelibs-xctest](https://github.com/apple/swift-corelibs-xctest) - The XCTest Project, A Swift core library for providing unit test support.
+- [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) - Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!
 - [PlaygroundTDD](https://github.com/WhiskerzAB/PlaygroundTDD) - Small library to easily run your tests directly within a Playground.
+- [Quick](https://github.com/Quick/Quick) - A behavior-driven development framework for Swift and Objective-C.
+- [Sleipnir](https://github.com/railsware/Sleipnir) - BDD-style framework for Swift.
+- [Specta](https://github.com/specta/specta) - A light-weight TDD / BDD framework for Objective-C & Cocoa.
+- [Spry](https://github.com/Quick/Spry) - A Mac and iOS Playgrounds Unit Testing library based on Nimble.
+- [SwiftCheck](https://github.com/typelift/SwiftCheck) - QuickCheck for Swift.
+- [XcodeCoverage](https://github.com/jonreid/XcodeCoverage) - Code coverage for Xcode projects.
+- [gh-unit](https://github.com/gh-unit/gh-unit) - Test Framework for Objective-C.
+- [swift-corelibs-xctest](https://github.com/apple/swift-corelibs-xctest) - The XCTest Project, A Swift core library for providing unit test support.
 - [swift-testing-expectation](https://github.com/dfed/swift-testing-expectation) - Create an asynchronous expectation in Swift Testing.
 
 **[back to top](#contributing-and-collaborating)**
